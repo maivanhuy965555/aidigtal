@@ -1,0 +1,191 @@
+
+/* 1199 */
+
+@media screen and (max-width: 1199.5px) {
+	.site-our .content p{
+		font-size: 40px;
+	}
+	.star-project .title-main .heading{
+		font-size: 80px;
+	}
+	.star-project .contact ul li span{
+		font-size: 30px;
+	}
+	.site-our{
+		padding: 50px;
+	}
+	.timeline-container{
+		max-width: 700px;
+	}
+}
+
+/* 991 */
+
+@media screen and (max-width: 991.5px) {
+	.site-logo .lg{
+		padding: 200px 0px;
+	}
+	.slick-active .item-slider h3{
+		position: relative;
+		top: 0;
+		left: 0 !important;
+		text-align: center;
+		margin-bottom: 20px;
+		animation-name: none !important;
+	}
+	.slick-active .item-slider h3 br{
+		display: none;
+	}
+	.item-slider .line{
+		top: 130px !important;
+		right: 0 !important;
+	}
+	.slick-active .item-slider p{
+		position: relative;
+		bottom: 0;
+		right: 0;
+		width: 100%;
+		text-align: center;
+		margin: 0 auto;
+		margin-top: 20px;
+		max-width: 100%;
+	}
+	.site-our .title-main{
+		margin-bottom: 100px;
+	}
+	.site-our{
+		padding: 50px 15px;
+		padding-top: 200px;
+	}
+	.star-project .contact{
+		padding-left: 0;
+	}
+	.footer{
+		padding: 50px 0px;
+	}
+	.site-logo .slider-content .slick-next{
+		right: 40%;
+	}
+	.site-logo .slider-content .slick-prev{
+		left: 43%;
+	}
+}
+
+/* 767 */
+
+@media screen and (max-width: 767.5px) {
+	.site-logo .content p{
+		font-size: 20px;
+	}
+	.site-logo .lg{
+		padding: 200px 0px 150px 0px;
+	}
+	.site-logo .slider-content{
+		padding: 100px 0px 50px 0px;
+	}
+	.item-slider h3{
+		font-size: 30px;
+	}
+	.site-logo .slider-content .veticar{
+		display: none;
+	}
+	.item-slider .images .img1{
+		max-width: 100%;
+		width: 320px;
+	}
+	.item-slider .images .img2{
+		width: 80%;
+	}
+	.slick-active .item-slider .line{
+		display: none;
+	}
+	.item-slider h3{
+		font-size: 25px;
+	}
+	.item-slider h3{
+		animation-name: none !important;
+		left: 0;
+	}
+	.item-slider{
+		padding-bottom: 30px;
+	}
+	.site-logo .slider-content .slick-next{
+		right: 30%;
+	}
+	.site-logo .slider-content .slick-prev{
+		left: 35%;
+	}
+	.bg-cli .bg{
+		width: 300px;
+		height: 300px;
+	}
+	.bg-cli .borderh{
+		height: 380px;
+		width: 380px
+	}
+	.site-our .pt{
+		top: -185px;
+		left: 0;
+	}
+	.site-our{
+		padding-top: 100px;
+	}
+	.site-our .line{
+		display: none;
+	}
+	.site-our .title-main{
+		margin-bottom: 50px;
+	}
+	.title-main .heading{
+		font-size: 30px;
+	}
+	.site-our .content img{
+		flex: 0 0 50px;
+		max-width: 50px;
+		height: 60px;
+	}
+	.site-our .content p{
+		font-size: 20px;
+	}
+	.site-our .content{
+		margin-bottom: 50px;
+	}
+	.star-project .title-main .heading{
+		font-size: 30px;
+
+		padding-bottom: 0;
+	}
+	.star-project .title-main .heading:before{
+		bottom: -10px;
+	}
+	.star-project .title-main{
+		margin-bottom: 50px;
+	}
+	.star-project .maps iframe{
+		height: 300px;
+	}
+	.star-project .contact{
+		margin-top: 30px;
+	}
+	.star-project .contact ul li span{
+		font-size: 20px;
+	}
+	.star-project .pt{
+		right: 0;
+		bottom: -180px;
+	}
+	.site-our{
+		padding-bottom: 0;
+	}
+	.footer-content .menu{
+		margin-top: 20px;
+	}
+	.site-our .pn .item{
+		height: 50px;
+		margin-bottom: 30px;
+	}
+	.order2-mb{
+		order: 2;
+		margin-top: 30px;
+	}
+}

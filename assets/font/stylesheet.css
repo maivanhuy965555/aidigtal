@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Bw Vivant DEMO';
+    src: url('BwVivantDEMO-Light.woff2') format('woff2'),
+        url('BwVivantDEMO-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Vivant DEMO';
+    src: url('BwVivantDEMO-Black.woff2') format('woff2'),
+        url('BwVivantDEMO-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Vivant DEMO';
+    src: url('BwVivantDEMO-Bold.woff2') format('woff2'),
+        url('BwVivantDEMO-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Vivant DEMO Skinny';
+    src: url('BwVivantDEMO-Skinny.woff2') format('woff2'),
+        url('BwVivantDEMO-Skinny.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Vivant DEMO';
+    src: url('BwVivantDEMO-Medium.woff2') format('woff2'),
+        url('BwVivantDEMO-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Vivant DEMO';
+    src: url('BwVivantDEMO-Regular.woff2') format('woff2'),
+        url('BwVivantDEMO-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Vivant DEMO';
+    src: url('BwVivantDEMO-Thin.woff2') format('woff2'),
+        url('BwVivantDEMO-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
